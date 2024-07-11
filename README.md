@@ -21,5 +21,9 @@ Torch==1.8.0+cu111
 MATLAB
 
 The MATLAB Reservoir Simulation Toolbox (MRST)
+
 ## Data
+
+The training image of channelized pattern is from [https://github.com/JuliaEarth/GeoStatsImages.jl](https://github.com/JuliaEarth/GeoStatsImages.jl). The StyleGAN2 framework is available at [https://github.com/NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch).
+
 ## Citation
